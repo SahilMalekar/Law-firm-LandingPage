@@ -1,0 +1,19 @@
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.heroRight {
+  width: 41.688rem;
+  height: 34.044rem;
+}
+
+.heroRight .imgConatainer {
+  width: 100%;
+}
+.heroRight .imgConatainer img {
+  width: 100%;
+}

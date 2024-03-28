@@ -1,0 +1,9 @@
+.button {
+  width: 10.75rem;
+  height: 2.938 rem;
+  padding: 0.6rem;
+  line-height: 19.36px;
+  text-align: center;
+  border: 1px solid var(--color-white);
+  cursor: pointer;
+}
